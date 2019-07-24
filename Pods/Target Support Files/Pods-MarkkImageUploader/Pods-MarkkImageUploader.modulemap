@@ -1,0 +1,6 @@
+framework module Pods_MarkkImageUploader {
+  umbrella header "Pods-MarkkImageUploader-umbrella.h"
+
+  export *
+  module * { export * }
+}
